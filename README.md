@@ -26,7 +26,7 @@ sistema:
   funcao: "Estudante de ADS | Backend Developer"
   instituicao: "UniFAFIRE — Recife, PE"
   perfil: "INTP-A // The Logician"
-  idiomas: ["Português (nativo)", "Inglês (fluente)", "Espanhol (avançado)"]
+  idiomas: ["Português (nativo)", "Inglês (fluente)", "Espanhol (intermidiario)"]
   foco_atual: "Desenvolvimento Backend & Arquitetura de Sistemas"
   status: "[ONLINE] Aberto a oportunidades de estágio/trainee"
 ```
@@ -77,7 +77,7 @@ sistema:
 | **Linguagens** | ![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=00fff2) ![Java](https://img.shields.io/badge/-Java-0d1117?style=flat-square&logo=openjdk&logoColor=00fff2) ![C](https://img.shields.io/badge/-C-0d1117?style=flat-square&logo=c&logoColor=00fff2) |
 | **Dados** | ![MySQL](https://img.shields.io/badge/-MySQL-0d1117?style=flat-square&logo=mysql&logoColor=00fff2) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=00fff2) ![SQLite](https://img.shields.io/badge/-SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=00fff2) |
 | **Frameworks/Libs** | ![Pygame](https://img.shields.io/badge/-Pygame-0d1117?style=flat-square&logo=python&logoColor=00fff2) ![JavaFX](https://img.shields.io/badge/-JavaFX-0d1117?style=flat-square&logo=java&logoColor=00fff2) |
-| **Ferramentas** | ![Git](https://img.shields.io/badge/-Git-0d1117?style=flat-square&logo=git&logoColor=00fff2) ![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=flat-square&logo=github&logoColor=00fff2) ![VSCode](https://img.shields.io/badge/-VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=00fff2) ![Linux](https://img.shields.io/badge/-Linux-0d1117?style=flat-square&logo=linux&logoColor=00fff2) |
+| **Ferramentas** | ![Git](https://img.shields.io/badge/-Git-0d1117?style=flat-square&logo=git&logoColor=00fff2) ![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=flat-square&logo=github&logoColor=00fff2) ![VSCode](https://img.shields.io/badge/-VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=00fff2) |
 
 </div>
 
