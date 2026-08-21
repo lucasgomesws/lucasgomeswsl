@@ -26,7 +26,7 @@ sistema:
   funcao: "Estudante de ADS | Backend Developer"
   instituicao: "UniFAFIRE — Recife, PE"
   perfil: "INTP-A // The Logician"
-  idiomas: ["Português (nativo)", "Inglês (fluente)", "Espanhol (intermidiario)"]
+  idiomas: ["Português (nativo)", "Inglês (fluente)", "Espanhol (intermediário)"]
   foco_atual: "Desenvolvimento Backend & Arquitetura de Sistemas"
   status: "[ONLINE] Aberto a oportunidades de estágio/trainee"
 ```
@@ -64,7 +64,7 @@ sistema:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,postgres,git,github,vscode,linux,html,css,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,postgres,git,github,vscode,html,css,js&theme=dark" />
 
 </div>
 
