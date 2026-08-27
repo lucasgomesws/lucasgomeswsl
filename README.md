@@ -64,7 +64,7 @@ sistema:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,mysql,postgres,git,github,vscode,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,mysql,postgres,git,github,vscode&theme=dark" />
 
 </div>
 
