@@ -64,7 +64,7 @@ sistema:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,postgres,git,github,vscode,html,css,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,mysql,postgres,git,github,vscode,linux&theme=dark" />
 
 </div>
 
@@ -74,10 +74,11 @@ sistema:
 
 | Categoria | Tecnologias |
 |:---:|:---|
-| **Linguagens** | ![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=00fff2) ![Java](https://img.shields.io/badge/-Java-0d1117?style=flat-square&logo=openjdk&logoColor=00fff2) ![C](https://img.shields.io/badge/-C-0d1117?style=flat-square&logo=c&logoColor=00fff2) |
+| **Linguagens** | ![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=00fff2) ![Java](https://img.shields.io/badge/-Java-0d1117?style=flat-square&logo=openjdk&logoColor=00fff2) |
 | **Dados** | ![MySQL](https://img.shields.io/badge/-MySQL-0d1117?style=flat-square&logo=mysql&logoColor=00fff2) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=00fff2) ![SQLite](https://img.shields.io/badge/-SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=00fff2) |
 | **Frameworks/Libs** | ![Pygame](https://img.shields.io/badge/-Pygame-0d1117?style=flat-square&logo=python&logoColor=00fff2) ![JavaFX](https://img.shields.io/badge/-JavaFX-0d1117?style=flat-square&logo=java&logoColor=00fff2) |
 | **Ferramentas** | ![Git](https://img.shields.io/badge/-Git-0d1117?style=flat-square&logo=git&logoColor=00fff2) ![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=flat-square&logo=github&logoColor=00fff2) ![VSCode](https://img.shields.io/badge/-VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=00fff2) |
+
 
 </div>
 
@@ -99,6 +100,8 @@ sistema:
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
+
+<img src="https://raw.githubusercontent.com/lucasgomesws/lucasgomesws/main/assets/recife-verde.png" width="100%" style="border-radius:8px; border:1px solid #00fff2;"/>
 
 **🌱 Recife Verde**
 Jogo 2D top-down (Pygame) alinhado ao ODS 15 — Vida Terrestre. ~400 linhas, desenvolvido em 13 semanas com Project Management Canvas.
